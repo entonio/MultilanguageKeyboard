@@ -11,7 +11,24 @@ Installation
 
 macOS:
 
-- Put MultilanguageKeyboard.bundle in `~/Library/Keyboard Layouts/`
+- Put `MultilanguageKeyboard.bundle` inside `~/Library/Keyboard Layouts/`
 - Add the new layout in **Preferences -> Keyboard -> Keyboard Types**
 - Select the added layout using the menu bar icon
 
+Windows:
+
+ - Run `setup.exe` and follow the instructions
+
+
+Credits
+-------
+The macOS layouts have been created using [Ukelele](https://scripts.sil.org/ukelele):
+
+1. switch the OS layout to the one that you want to change
+1. clone the now current layout
+1. add the desired combinations
+
+The Windows layout has been created using [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339):
+
+1. create a new layout from an existing OS one
+1. add the desired combinations
